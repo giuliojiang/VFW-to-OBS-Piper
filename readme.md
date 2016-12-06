@@ -1,3 +1,14 @@
+# VFW to OBS Piper
+
+*This is a work-in-progress project*
+
+A project which allows to pipe video captured by MSI Afterburner to OBS streaming engine.
+
+## Base project forked from https://github.com/nattthebear/pipedec
+
+Please see license notes of the base project below.
+
+```
 Copyright (c) 2012, 2014 Nicholai Main
 All rights reserved.
 
@@ -113,3 +124,4 @@ in the current directory, contain the output of the program that was run.
 The current directory that the piped application runs in is not
 nessecarily predictable, but probably will be the same as the AVI file being
 created.
+```
